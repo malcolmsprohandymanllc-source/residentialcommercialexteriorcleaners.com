@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://residentialcommercialexteriorcleaners.com/sitemap.xml
